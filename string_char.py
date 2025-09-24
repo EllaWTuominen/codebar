@@ -9,3 +9,4 @@ print(count_string_characters("Hello, nice to meet you! Nice to meet you too!"))
 print(count_string_characters("Nice to meet you too!"))
 
 print(count_string_characters("Local workstation"))
+print(count_string_characters("Very nice to meet you indeed!"))
