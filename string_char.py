@@ -7,3 +7,5 @@ def count_string_characters(str):
 print(count_string_characters("Hello, nice to meet you! Nice to meet you too!"))  # Output: 13
 
 print(count_string_characters("Nice to meet you too!"))
+
+print(count_string_characters("Very nice to meet you indeed!"))
